@@ -93,3 +93,14 @@ INSERT INTO players_tournaments (players_id, tournaments_id, score, final_positi
 (4, 2, 80, 1, 1, 1),  
 (5, 3, 0, NULL, 1, 1);
 
+```
+## 🔗 Enlaces del Proyecto y Recursos de Referencia
+
+Para el seguimiento, revisión del código fuente y auditoría del despliegue cloud, se disponen los accesos principales al ecosistema del proyecto:
+
+* **Repositorio Oficial de GitHub:** [LAB-5-DAW-MNG-TOURNAMENT](https://github.com/diegojoaquin1/LAB-5-DAW-MNG-TOURNAMENT/blob/main/README.md) – Repositorio con el control de versiones, documentación y scripts estructurales del sistema.
+* **Consola de Administración Remota:** [Supabase Dashboard - Proyecto MNG](https://supabase.com/dashboard/project/pgyzeobkmefpaljhjnja/editor/17596?schema=public) – Entorno en la nube donde se aloja el esquema físico relacional de PostgreSQL.
+* **Video de Demostración Funcional:** [Ver Video Explicativo en YouTube](https://youtu.be/yep8EkI0F2M) – Video con la sustentación del flujo operativo del laboratorio y validaciones con Postman.
+
+---
+**Ingeniería de Sistemas - Universidad Nacional de San Agustín (UNSA) © 2026**
